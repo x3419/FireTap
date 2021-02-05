@@ -2,7 +2,7 @@
 
 This is a Firefox port of bats3c's ChromeTap project. All credit to the original project goes to bats3c, he's an awesome researcher and it was a great project to learn injection with beacon object files. 
 
-
+This does the same thing as the ChromeTap project but for Firefox. Running `firetap` begins monitoring firefox and outputs the results to C:\Windows\temp\mozillacrash.log
 
 
 
