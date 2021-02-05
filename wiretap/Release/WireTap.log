@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\dllmain.cpp(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\dllmain.cpp(9,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\dllmain.cpp(173,9): warning C4101: 'hThread': unreferenced local variable
+C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\dllmain.cpp(172,11): warning C4101: 'dwTid': unreferenced local variable
+  Generating code
+  Finished generating code
+detours.x86.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.x86.lib(detours.obj)' or at 'C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\Release\detours.pdb'; linking object as if no debug info
+detours.x86.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.x86.lib(modules.obj)' or at 'C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\Release\detours.pdb'; linking object as if no debug info
+detours.x86.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.x86.lib(disasm.obj)' or at 'C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\Release\detours.pdb'; linking object as if no debug info
+  6 of 6 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  WireTap.vcxproj -> C:\Users\No\Documents\MozillaTools-main\firetap\wiretap\Release\WireTap.dll
