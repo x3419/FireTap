@@ -1,4 +1,4 @@
-alias chrometap {
+alias firetap {
     $arch = binfo($1, "barch");
 
     if ($arch eq "x64") {
